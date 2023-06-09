@@ -1,5 +1,5 @@
 # Bike-Sales-Dashboard
-![Bike dashboard](https://github.com/Mahmoud123Atef/Bike-Sales-Dashboard/assets/108003960/d08e590c-bfec-467b-9f41-fea92296e662)
+![Sales Dashboard](https://github.com/Mahmoud123Atef/Bike-Sales-Dashboard/assets/108003960/423dfc98-5058-4181-a48f-8903a5a48357)
 
 ## 🎯Objective:
 
